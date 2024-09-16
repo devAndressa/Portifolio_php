@@ -14,6 +14,7 @@
 </head>
 
 <body>
+    
 
     <header class="header">
         <a href="#" class="logo">Andressa Monteiro.</a>
@@ -45,14 +46,15 @@
         </div>
 
         <div class="home-sci">
-            <a href="#"><i class='bx bxl-linkedin-square'></i></a>
-            <a href="#"><i class='bx bxl-github'></i></a>
+            <a href="https://www.linkedin.com/feed/"><i class='bx bxl-linkedin-square'></i></a>
+            <a href="https://github.com/devAndressa"><i class='bx bxl-github'></i></a>
         </div>
 
         <div class="home-imgHover"></div>
+
     </section>
 
 
-    <script src="js/script.js"></script>
+    <script src="scripts/script.js"></script>
 </body>
 </html>
